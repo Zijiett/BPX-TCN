@@ -1,2 +1,3 @@
 # BPX-TCN
-code about the paper that proposing a novel Rainfall-Runoff simulated framework in semi-arid regions
+Code about"Improving Rainfall-Runoff Simulation in Semi-Arid Basins by Combining Data Segmentation and Attention-Based Deep Learning"
+If you have any suggestions for these, you can contact zijiett@gmail.com
